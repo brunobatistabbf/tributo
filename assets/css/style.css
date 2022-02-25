@@ -79,7 +79,7 @@ a {
     margin-left: 250px;
     display: flex;
     flex-direction: column;
-    height: 200px;
+    height: 170px;
    
 }
 
@@ -101,5 +101,6 @@ a {
     margin-left: 200px;
     margin-right: 200px;  
     text-align: justify;
+    font-size: 20px;
 }
 
