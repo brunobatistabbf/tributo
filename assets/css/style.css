@@ -131,21 +131,19 @@ a {
   color: rgb(86, 86, 86);
 }
 
-.container_albuns{
-     background-color: rgb(194, 194, 194);
-    display: flex;
-    flex-direction: column;
-    height: 1500px;
-    margin-top: 150px;
-    margin-left: 200px;
-    margin-right: 200px;
-    border-radius: 50px;
-    box-shadow: 0 0 3em rgb(34, 34, 34);
-    margin-bottom: 30px;
+.container_footer{
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    margin-top: 30px;
+    background-color: black;
+    justify-content: center;
+    color: grey;
+
 }
-.container_albuns_title{
-     margin-top: 50px;
-     font-size: 50px;
-     font-family: Arial, Helvetica, sans-serif;
-     margin-left: 450px;
+
+.container_footer a {
+    text-decoration: none;
+    color: grey;
 }
